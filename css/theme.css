@@ -222,7 +222,7 @@ body .outer-container .container.single-page .expertise-section h4.designation {
     color: #000;
     font-family: -webkit-body;
     font-weight: 700 !important;
-    line-height: 7px;
+    line-height: 20px;
 }
 body .outer-container .container.single-page .expertise-section .entry-content p.company-location {
     margin: auto;
