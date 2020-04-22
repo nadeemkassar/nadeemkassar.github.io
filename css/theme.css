@@ -225,15 +225,9 @@ body .outer-container .container.single-page .expertise-section h4.designation {
     margin: unset;
     font-size: 18px;
     color: #000;
-    padding-bottom: 10px;
-    text-transform: uppercase;
-}
-body .outer-container .container.single-page .expertise-section .entry-content.education-section {
-    margin: 10px 0;
-    padding-bottom: 10px;
-}
-body .outer-container .container.single-page .expertise-section .entry-content.education-section h4.designation {
-    padding-bottom: unset;
+    font-family: -webkit-body;
+    font-weight: 700 !important;
+    line-height: 20px;
 }
 body .outer-container .container.single-page .expertise-section .entry-content p.company-location {
     margin: auto;
